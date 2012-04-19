@@ -1,0 +1,8 @@
+﻿Code version: 6.1.1000.82
+Assembly name RavenLinqpadDriver.Bridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=585b2b0c3c4c2d89 mvid {45d69c31-6333-491d-9d4c-af9fbf424f66}
+* ref mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {fcb9dac8-ae3a-4886-93b0-f4cd5b0db0be}
+* ref Raven.Client.Lightweight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593
+  mvid {e220d5d0-c813-4a82-ab92-9170e973ace7}
+* ref System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {0467f5c0-e463-4b2c-acc5-f718cb71f056}

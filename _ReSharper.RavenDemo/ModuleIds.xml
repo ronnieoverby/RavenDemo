@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="6F6DA72B-762D-434A-A7A5-FA3EBDB175D1" ModuleId="RavenDemo" />
+  <Module PersistentId="RavenLinqpadDriver.Bridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=585b2b0c3c4c2d89" ModuleId="RavenLinqpadDriver.Bridge" />
+  <Module PersistentId="Raven.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593" ModuleId="Raven.Abstractions" />
+</Modules>
